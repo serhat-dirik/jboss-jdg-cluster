@@ -19,4 +19,4 @@ How to run?
 
 Prerequisites
 -----------------
-  jboss-demo/jdg:7 docker image must be in your local docker repo
+  [jboss-demo/jdg:7](https://github.com/serhat-dirik/docker-demo-images/tree/master/image-jdg7/README.md) docker image must be in your local docker repo
